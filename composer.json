@@ -1,0 +1,26 @@
+{
+  "name": "jleagle/instagram-api-client",
+  "keywords": [
+    "instagram",
+    "api",
+    "client",
+    "subscriptions"
+  ],
+  "description": "An Instagram API client",
+  "authors": [
+    {
+      "name": "James Eagle",
+      "email": "jimeagle@gmail.com",
+      "homepage": "http://jimeagle.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Jleagle\\Instagram\\": "src"
+    }
+  },
+  "require": {
+    "php": ">=5.4",
+    "curl/curl": "~1.2"
+  }
+}
