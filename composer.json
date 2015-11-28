@@ -21,6 +21,6 @@
   },
   "require": {
     "php": ">=5.4",
-    "curl/curl": "~1.2"
+    "jleagle/curl-wrapper": "~0.1"
   }
 }
